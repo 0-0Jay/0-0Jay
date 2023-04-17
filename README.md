@@ -10,7 +10,7 @@ e-mail : youngjin2712@naver.com<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
 
 ### 🌱 Total<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-0jin)](https://github.com/Jo-0jin/github-readme-stats)
+[![Jo-0jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-0jin)](https://github.com/Jo-0jin/github-readme-stats)
 <!--
 **Jo-0jin/Jo-0jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
