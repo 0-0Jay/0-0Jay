@@ -2,6 +2,7 @@
 이름 : 조영진 (Jo Young-Jin)<br>
 소속 : 영진전문대학교 컴퓨터정보계열 AI빅데이터학과<br>
 e-mail : youngjin2712@naver.com<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJo-0jin%2Fhit-counter&count_bg=%23D57EEC&title_bg=%238813E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 💬 Languages<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-0jin&layout=compact)](https://github.com/Jo-0jin/github-readme-stats)
