@@ -7,17 +7,17 @@ e-mail : youngjin2712@naver.com<br>
 ### 🏅 Certificate
 2023/07/16 - PCCP Lv.1 c++ 
 
-### 💬 Languages<br>
+### 💬 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&layout=compact)](https://github.com/Jo-0jin/github-readme-stats)
 
-### 🏅 Backjoon Rank<br>
+### 🏅 Backjoon Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
 
-### 🏅 Programmers Profile<br>
+### 🏅 Programmers Profile
 ![image](https://user-images.githubusercontent.com/117143398/232439061-e3b58838-2b52-4072-9c91-a39d1f3c222a.png)
 
 
-### 🌱 Total<br>
+### 🌱 Total
 [![0-0Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0Jay)](https://github.com/Jo-0jin/github-readme-stats)
 <!--
 **Jo-0jin/Jo-0jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
