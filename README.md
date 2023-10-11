@@ -18,9 +18,9 @@ e-mail : youngjin2712@naver.com<br>
 
 
 ### 🌱 Total
-[![0-0Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0Jay)](https://github.com/Jo-0jin/github-readme-stats)
+[![0-0Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0Jay)](https://github.com/0-0Jay/github-readme-stats)
 <!--
-**Jo-0jin/Jo-0jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0-0Jay/0-0Jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
