@@ -8,7 +8,7 @@ e-mail : youngjin2712@naver.com<br>
 2023/07/16 - PCCP Lv.1 c++ 
 
 ### 💬 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&layout=compact)](https://github.com/0_0Jay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=javascript,html,jupyter notebook&layout=compact)](https://github.com/0_0Jay/github-readme-stats)
 
 ### 🏅 Backjoon Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
