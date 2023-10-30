@@ -15,10 +15,6 @@ e-mail : youngjin2712@naver.com<br>
 
 ### 🏅 Programmers Profile
 ![image](https://user-images.githubusercontent.com/117143398/232439061-e3b58838-2b52-4072-9c91-a39d1f3c222a.png)
-
-
-### 🌱 Total
-[![0-0Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0Jay)](https://github.com/0-0Jay/github-readme-stats)
 <!--
 **0-0Jay/0-0Jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
