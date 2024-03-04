@@ -18,7 +18,7 @@ e-mail : youngjin2712@naver.com<br>
 <!--
 **0-0Jay/0-0Jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![0-0JAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0jay&hide=contribs,prs)
+[![0-0Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0jay)](https://github.com/0-0jay/github-readme-stats)
 
 Here are some ideas to get you started:
 
