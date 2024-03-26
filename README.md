@@ -14,8 +14,8 @@ e-mail : youngjin2712@naver.com<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
 
 ### 🏅 Programmers Profile
-![prgms](https://github.com/0-0Jay/0-0Jay/assets/117143398/966f443c-2199-49aa-9e8a-3ad45a7f0586)
-<!--
+![image](https://github.com/0-0Jay/0-0Jay/assets/117143398/4c9c581b-ea3c-46db-91fa-e27e30015b30)
+
 **0-0Jay/0-0Jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
