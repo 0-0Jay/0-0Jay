@@ -6,7 +6,7 @@ e-mail : youngjin2712@naver.com<br>
 
 ### 🏅 Certificate
 2023/07/16 - PCCP Lv.1 c++ <br>
-2024/05/19 - 정보처리산업기사 필기
+2024/05/19 - 정보처리산업기사 필기 
 
 ### 💬 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)](https://github.com/0_0Jay/github-readme-stats)
