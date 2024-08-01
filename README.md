@@ -6,7 +6,7 @@ e-mail : youngjin2712@naver.com<br>
 
 ### 🏅 Certificate
 2023/07/16 - PCCP Lv.1 c++ <br>
-2024/05/19 - 정보처리산업기사 필기
+2024/05/19 - 정보처리산업기사 필기 <br>
 2024/07/28 - 정보처리산업기사 실기
 
 ### 💬 Languages
