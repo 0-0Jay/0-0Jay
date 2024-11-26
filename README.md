@@ -15,4 +15,5 @@ Email : youngjin2712@naver.com<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
 
 ### 🏅 Programmers Rank
-![image](https://github.com/user-attachments/assets/4cabf56c-1e08-48cb-8644-3ee5954d2566)
+![image](https://github.com/user-attachments/assets/535f5552-9ed3-4102-ab6f-be1583538738)
+
