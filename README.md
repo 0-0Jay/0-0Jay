@@ -1,5 +1,5 @@
 ### ♟️ Jay's Information
-소속 : 영진전문대학교 컴퓨터정보계열 AI빅데이터학과<br>
+소속 : 영진전문대학교 컴퓨터정보계열<br>
 이름 : 조영진<br>
 Email : youngjin2712@naver.com<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0-0Jay%2Fhit-counter&count_bg=%23D57EEC&title_bg=%238813E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -16,9 +16,4 @@ Email : youngjin2712@naver.com<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
 
 ### 🏅 Programmers Rank
-![image](https://github.com/user-attachments/assets/f44b768c-3bc5-4fa7-91d4-741722ae3262)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/8a0f77e8-3602-46d1-b984-fd459d7ddc09)
