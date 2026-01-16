@@ -11,7 +11,7 @@ Email : youngjin2712@naver.com<br>
 2025/03/04 ~ 2025/12/11 - 전공심화(학사학위 과정) <br>
 
 ### 💬 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)](https://github.com/0-0Jay/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)
 
 ### 🏅 Backjoon Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)
