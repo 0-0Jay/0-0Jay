@@ -11,6 +11,7 @@ Email : youngjin2712@naver.com<br>
 2025/03/04 ~ 2025/12/11 - 전공심화(학사학위 과정) <br>
 
 ### 💬 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)
 
 ### 🏅 Backjoon Rank
