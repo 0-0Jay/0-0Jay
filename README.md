@@ -10,10 +10,9 @@ Email : youngjin2712@naver.com<br>
 2025/12/05 - SQLD 취득 (필기 : 2025/11/16) <br>
 2026/02/12 - 영진전문대학교 컴퓨터정보공학과 전공심화(학사학위 과정) 졸업 <br>
 
-| 💬 Languages | 🏅 Backjoon Rank |
+### 💬 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)
+
+| 🏅 Backjoon Rank | 🏅 Programmers Rank |
 |:---:|:---:|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)|
-
-### 🏅 Programmers Rank
-![image](https://github.com/user-attachments/assets/9c7df499-c9d3-4abe-bca4-780b041a06d6)
-
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin2712)](https://solved.ac/youngjin2712/)|![image](https://github.com/user-attachments/assets/9c7df499-c9d3-4abe-bca4-780b041a06d6)|
