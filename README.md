@@ -11,7 +11,8 @@ Email : youngjin2712@naver.com<br>
 2026/02/12 - 영진전문대학교 컴퓨터정보공학과 전공심화(학사학위 과정) 졸업 <br>
 
 ### 💬 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&hide=jupyternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Jay&layout=compact)
+
 
 | 🏅 Backjoon Rank | 🏅 Programmers Rank |
 |:---:|:---:|
