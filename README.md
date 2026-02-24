@@ -24,7 +24,7 @@ Email : youngjin2712@naver.com<br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
       <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white">
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> 
 </div>
