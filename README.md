@@ -12,8 +12,8 @@ Email : youngjin2712@naver.com<br>
 
 ### 🛠️ Tech Stack
 <div style="margin: ; text-align: left;" "text-align: left;">    
-<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=AmazonS3&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=AmazonAWS&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
