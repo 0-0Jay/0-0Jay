@@ -11,8 +11,6 @@ Email : youngjin2712@naver.com<br>
 2026/02/12 - 영진전문대학교 컴퓨터정보공학과 전공심화(학사학위 과정) 졸업 <br>
 
 ### 🛠️ Tech Stack
-<div style="text-align: left;">
-<div style="margin: ; text-align: left;" "text-align: left;">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
@@ -38,7 +36,7 @@ Email : youngjin2712@naver.com<br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-<br/></div>
+<br/>
 </div>
     
 
